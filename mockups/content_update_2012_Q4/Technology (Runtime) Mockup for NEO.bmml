@@ -1,0 +1,78 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1232" measuredH="1482" mockupW="1085" mockupH="1482">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="147" y="0" w="1085" h="1482" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//spaceport.io</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="330" y="70" w="719" h="1387" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="330" y="86" w="169" h="79" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="514" y="136" w="535" h="29" measuredW="529" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <size>10</size>
+        <text>About%2C%20Technology%2C%20Licensing%2C%20Download%2C%20Documentation%2C%20Community%2C%20Manage%20My%20Games</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="147" y="70" w="1085" h="95" measuredW="1085" measuredH="95" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1085" h="95" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="12"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::LinkBar" x="876" y="107" w="-1" h="-1" measuredW="173" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>jon@spaceport.io%2C%20Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="345" y="244" w="-1" h="-1" measuredW="263" measuredH="41" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>How%20does%20it%20work%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="459" y="285" w="437" h="368" measuredW="306" measuredH="258" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Technology%2520Diagram%25201.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Paragraph" x="345" y="678" w="689" h="79" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20Spaceport%20runtime%20has%202%20components%3A%0A%20%0A*%20A%20JavaScript%20Runtime%0A*%20A%20Native%20Renderer%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="345" y="781" w="-1" h="-1" measuredW="220" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>The%20JavaScript%20Runtime</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Paragraph" x="345" y="824" w="689" h="326" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20JavaScript%20Runtime%20is%20where%20all%20the%20game-logic%20lives.%20%20%0A%20%0AThis%20scripting%20engine%20sends%20commands%20to%20the%20native%20renderer.%20%20%0A%20%0AHere%20are%20some%20examples%20of%20commands%3A%0A%20%0A*%20Load%20a%20file%0A*%20Play%20a%20sound%0A*%20Play%20an%20animation%0A*%20Listen%20for%20touch%20events%0A*%20Move%20an%20object%20to%20a%20new%20location%0A%20%0AThese%20are%20very%20short%2C%20very%20simple%20messages.%0A%20%0AThe%20JavaScript%20renderer%20is%20VERY%20lightweight.%20%20It%20doesn%27t%20do%20much.%20%20It%20is%20NOT%20in%20charge%20of%20any%20kind%20of%20graphics%20or%20sound%20or%20animation.%20%20The%20native%20renderer%20takes%20care%20of%20all%20the%20heavy%20lifting.%20%20%0A%20%0AAs%20a%20result%2C%20very%20little%20time%20is%20spent%20in%20JavaScript%2C%20while%20all%20the%20expensive%20rendering%20and%20sound%20operations%20are%20done%20with%20native%20code.</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Paragraph" x="345" y="1199" w="689" h="207" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0AWhen%20the%20Native%20Renderer%20receives%20a%20command%2C%20it%20does%20that%20action%20using%20NATIVE%20code%20and%20APIs%20provided%20by%20the%20platform.%20%20%0A%20%0AThe%20Spaceport%20iOS%20native%20renderer%20is%20written%20in%20C++%20with%20a%20small%20wrapper%20of%20Objective-C.%20%20All%20graphics%20are%20drawn%20to%20the%20screen%20using%20hardware-accellerated%20Open-GL%20APIs%20provided%20by%20the%20iOS%20SDK.%20%20Sounds%20and%20input%20and%20networking%20are%20all%20implemented%20with%20native%20code%20and%20APIs.%0A%20%0AWhen%20the%20native%20renderer%20needs%20to%20send%20information%20back%20to%20the%20JavaScript%20runtime%20%28for%20example%3A%20to%20indicate%20that%20a%20user%20has%20tapped%20the%20screen%29%20it%20sends%20back%20asynchronous%20events.</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="345" y="1165" w="-1" h="-1" measuredW="193" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>The%20Native%20Renderer</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ButtonBar" x="565" y="165" w="173" h="27" measuredW="149" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <size>10</size>
+        <text>A2J%2C%20Runtime%2C%20SGF</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

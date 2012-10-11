@@ -1,0 +1,66 @@
+<mockup version="1.0" skin="sketch" measuredW="1232" measuredH="1482" mockupW="1085" mockupH="1482">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="147" y="0" w="1085" h="1482" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//spaceport.io</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="330" y="70" w="719" h="1387" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="330" y="86" w="169" h="79" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="514" y="136" w="535" h="29" measuredW="529" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <size>10</size>
+        <text>About%2C%20Technology%2C%20Licensing%2C%20Download%2C%20Documentation%2C%20Community%2C%20Manage%20My%20Games</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="147" y="70" w="1085" h="95" measuredW="1085" measuredH="95" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1085" h="95" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="12"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::LinkBar" x="876" y="107" w="-1" h="-1" measuredW="173" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>jon@spaceport.io%2C%20Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="345" y="205" w="689" h="33" measuredW="228" measuredH="41" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Startup%20License</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="346" y="255" w="689" h="33" measuredW="320" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Companies%20with%20less%20than%2025%20employees</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Paragraph" x="346" y="303" w="686" h="110" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Spaceport%20NEO%20is%20completely%20free.%0A%20%0AWith%20this%20license%20you%20may%20develop%2C%20test%2C%20submit%2C%20and%20run%20games%20for%20free.%20%20With%20this%20license%20spaceport.io%20Inc.%20will%20not%20charge%20you%20any%20money.%0A%20%0AYou%20can%20read%20the%20full%20licenensing%20terms%20%5Bhere%5D.</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="346" y="448" w="689" h="33" measuredW="284" measuredH="41" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Enterprise%20Licenses</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="347" y="498" w="689" h="33" measuredW="328" measuredH="26" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Companies%20with%20more%20than%2025%20employees</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Paragraph" x="347" y="546" w="686" h="191" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20may%20download%20and%20evaluate%20Spaceport%20NEO%20for%20free.%20%20%0A%20%0AThis%20is%20covered%20by%20our%20%5BEnterprise%20Evaluation%20Licensing%20terms%5D.%0A%20%0ABefore%20submitting%20a%20game%20to%20an%20App%20Store%20you%20will%20need%20to%20get%20an%20Enterprise%20Publishing%20License.%0A%20%0ATo%20get%20an%20Enterprise%20Publishing%20License%20for%20Spaceport%20NEO%20please%20contact%20BD%20at%3A%20bd@spaceport.io%0A%20%0A%20%0A%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

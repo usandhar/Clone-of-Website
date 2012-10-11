@@ -1,0 +1,280 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1561" measuredH="981" mockupW="1205" mockupH="827">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="356" y="155" w="1205" h="81" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="498" y="154" w="139" h="82" measuredW="236" measuredH="119" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./assets/spaceport_neo_website_logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TabBar" x="637" y="211" w="789" h="25" measuredW="594" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <text>DEVELOPERS%2C%20WHY%20SPACEPORT%3F%2C%20WHAT%20ABOUT%20HTML5%3F%2C%20IN%20THE%20WORKS%2C%20ABOUT</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::VRule" x="498" y="236" w="-1" h="649" measuredW="10" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="523" y="247" w="238" h="74" measuredW="367" measuredH="37" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Popular%20Languages%20and%20IDE%27s</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="799" y="247" w="-1" h="-1" measuredW="206" measuredH="37" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>One%20Code%20Base</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="1042" y="247" w="-1" h="-1" measuredW="162" measuredH="37" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Any%20Platform</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Label" x="1241" y="247" w="-1" h="-1" measuredW="149" measuredH="37" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Any%20Device</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Image" x="521" y="360" w="198" h="120" measuredW="77" measuredH="79" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FlashBuilder%20+%20ActionScript</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Image" x="523" y="585" w="198" h="120" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eclipse%20+%20Java</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="523" y="746" w="198" h="120" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eclipse%20+%20JavaScript</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="833" y="360" w="-1" h="-1" measuredW="139" measuredH="148" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/spacport_neo_logo.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Arrow" x="719" y="421" w="114" h="10" measuredW="150" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Arrow" x="719" y="446" w="114" h="205" measuredW="150" measuredH="100" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Arrow" x="719" y="480" w="114" h="330" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::RoundButton" x="508" y="498" w="268" h="390" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>16370588</color>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="516" y="508" w="-1" h="-1" measuredW="121" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>IN%20THE%20WORKS</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Image" x="1009" y="360" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>iOS</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="1009" y="456" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Android</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Image" x="1010" y="601" w="77" h="79" measuredW="77" measuredH="79" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Web</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Image" x="1010" y="696" w="77" h="79" measuredW="77" measuredH="79" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Windows%208</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="1010" y="788" w="77" h="79" measuredW="77" measuredH="79" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Smart%20TV</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::RoundButton" x="843" y="563" w="594" h="323" measuredW="32" measuredH="32" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <color>16370588</color>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="1304" y="577" w="121" h="24" measuredW="121" measuredH="24" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>IN%20THE%20WORKS</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="1204" y="354" w="85" h="84" measuredW="256" measuredH="256" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/iphone.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Image" x="1204" y="458" w="84" h="75" measuredW="320" measuredH="320" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/android_phone.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Image" x="1276" y="299" w="120" h="137" measuredW="500" measuredH="495" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/ipad.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Image" x="1254" y="431" w="157" h="101" measuredW="945" measuredH="709" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/kindle_fire.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Image" x="1126" y="617" w="51" h="57" measuredW="256" measuredH="256" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/chrome.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="1190" y="617" w="58" h="56" measuredW="380" measuredH="359" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/firefox.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="1260" y="613" w="66" h="65" measuredW="200" measuredH="205" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/internet_explorer.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="1332" y="618" w="58" h="55" measuredW="424" measuredH="480" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/safari.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Image" x="1126" y="701" w="42" h="68" measuredW="282" measuredH="423" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/win8_phone.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Image" x="1186" y="701" w="103" h="61" measuredW="647" measuredH="401" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/win8_surface.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Image" x="1126" y="778" w="122" h="98" measuredW="400" measuredH="400" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/smart_tv.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Arrow" x="1086" y="404" w="114" h="10" measuredW="150" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Arrow" x="1086" y="329" w="203" h="75" measuredW="150" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Arrow" x="1086" y="446" w="202" h="50" measuredW="150" measuredH="100" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Arrow" x="1086" y="496" w="114" h="10" measuredW="150" measuredH="100" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Arrow" x="1086" y="640" w="40" h="10" measuredW="150" measuredH="100" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Arrow" x="1086" y="730" w="40" h="10" measuredW="150" measuredH="100" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Arrow" x="1086" y="822" w="40" h="10" measuredW="150" measuredH="100" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Canvas" x="356" y="900" w="1205" h="81" measuredW="100" measuredH="70" zOrder="42" locked="false" isInGroup="-1"/>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Arrow" x="972" y="394" w="33" h="10" measuredW="150" measuredH="100" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Arrow" x="972" y="466" w="33" h="10" measuredW="150" measuredH="100" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Arrow" x="972" y="496" w="33" h="105" measuredW="150" measuredH="100" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Arrow" x="972" y="496" w="40" h="210" measuredW="150" measuredH="100" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Arrow" x="972" y="496" w="40" h="291" measuredW="150" measuredH="100" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,89 @@
+<mockup version="1.0" skin="sketch" measuredW="1232" measuredH="1820" mockupW="1085" mockupH="1820">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="147" y="0" w="1085" h="1820" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//spaceport.io</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="330" y="70" w="719" h="1718" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="330" y="86" w="169" h="79" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="514" y="136" w="535" h="29" measuredW="529" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <size>10</size>
+        <text>About%2C%20Technology%2C%20Licensing%2C%20Download%2C%20Documentation%2C%20Community%2C%20Manage%20My%20Games</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="147" y="70" w="1085" h="95" measuredW="1085" measuredH="95" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1085" h="95" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="12"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::LinkBar" x="876" y="107" w="-1" h="-1" measuredW="173" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>jon@spaceport.io%2C%20Sign%20Out</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="345" y="244" w="-1" h="-1" measuredW="241" measuredH="41" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Introducing%3A%20A2J</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ButtonBar" x="565" y="165" w="173" h="27" measuredW="149" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <size>10</size>
+        <text>A2J%2C%20Runtime%2C%20SGF</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="345" y="305" w="-1" h="-1" measuredW="347" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Converting%20ActionScript%20into%20JavaScript</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Paragraph" x="345" y="348" w="689" h="64" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A2J%20is%20our%20compiler%20which%20converts%20your%20ActionScript%203%20game%20code%20into%20Spaceport%20compatible%20JavaScript%20code.%0A%20%0AA2J%20comes%20bundled%20with%20the%20Spaceport%20SDK%20and%20is%20invoked%20automaticallly%20by%20the%20IDE%20each%20time%20you%20build.</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Paragraph" x="345" y="488" w="688" h="154" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20output%20code%20is%20highly%20efficient.%20%20The%20automatically%20generated%20code%20is%20even%20faster%20than%20hand-coded%20JavaScript%20as%20a%20result%20of%20the%20many%20optimizations%20we%20have%20put%20into%20this%20technology.%0A%20%0AOptimizations%20include%3A%0A%20%0A*%20De-virtualization%20for%20getters%2C%20setters%20and%20functions%0A*%20Constant%20propagation%0A*%20Inlining%0A*%20Bundling</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="345" y="445" w="-1" h="-1" measuredW="261" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>High%20performance%20JavaScript</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Paragraph" x="345" y="728" w="688" h="154" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20output%20code%20is%20highly%20efficient.%20%20The%20automatically%20generated%20code%20is%20even%20faster%20than%20hand-coded%20JavaScript%20as%20a%20result%20of%20the%20many%20optimizations%20we%20have%20put%20into%20this%20technology.%0A%20%0AOptimizations%20include%3A%0A%20%0A*%20De-virtualization%20for%20getters%2C%20setters%20and%20functions%0A*%20Constant%20propagation%0A*%20Inlining%0A*%20Bundling</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="345" y="685" w="-1" h="-1" measuredW="261" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>High%20performance%20JavaScript</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="345" y="927" w="-1" h="-1" measuredW="196" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>ActionScript%20Features</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="345" y="970" w="688" h="809" measuredW="200" measuredH="80" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Classes%20and%20Inheritance%0AInterfaces%0AXML%0ADictionary%0ADynamic%20Classes%0Agetters/setters%0Apackages%0Atyped%20variables%0Adynamic%20variables%0Aoptional%20arguments%0Arest%20parameters%0A%5BEmbed%5D%0ASWCs%0AVector%0Atyped%20catch%28%29%20clauses%0Afile%20inclusion%0Afunction%20exports%0Aanonymous%20and%20inline%20functions%0Awith%20statements%0Aimplicit%20%27this%27%0Aimplicit%20static%20references%0Aimplicit%20%27super%28%29%27%0Acircular%20references%0Afully-qualified%20names%0Aloop-labels%0Aautomatic%20semicolon%20insertion%0AUnicode%0Aa%20subset%20of%20Regular%20Expressions%0A%22for-in%22%20loops%0A%22for-each%22%20loops%0Acompound%20assignment%20operators%0Aarray%2C%20object%2C%20and%20vector%20literals</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

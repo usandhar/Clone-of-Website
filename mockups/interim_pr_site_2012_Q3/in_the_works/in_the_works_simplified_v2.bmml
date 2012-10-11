@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1561" measuredH="981" mockupW="1205" mockupH="827">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="356" y="155" w="1205" h="81" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="498" y="154" w="139" h="82" measuredW="236" measuredH="119" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./assets/spaceport_neo_website_logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TabBar" x="637" y="211" w="789" h="25" measuredW="738" measuredH="100" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>4</selectedIndex>
+        <text>DEVELOPERS%2C%20WHY%20SPACEPORT%3F%2C%20WHAT%20ABOUT%20HTML5%3F%2C%20MOBILE%20OPPORTUNITY%2C%20IN%20THE%20WORKS%2C%20ABOUT</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::VRule" x="498" y="236" w="-1" h="649" measuredW="10" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="523" y="263" w="238" h="58" measuredW="389" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Develop%20using%20popular%20Languages%20and%20IDE%27s</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Label" x="885" y="247" w="164" h="74" measuredW="470" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Unified%20JavaScript%20Runtime%20supports%20Instant%20Updates</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="1200" y="269" w="239" h="52" measuredW="397" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Deploy%20to%20Any%20Platform%20%26%20Run%20on%20Any%20Device</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Canvas" x="356" y="900" w="1205" h="81" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Image" x="498" y="232" w="-1" h="-1" measuredW="960" measuredH="720" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/in_the_works.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
